@@ -10,6 +10,7 @@ The goal is to reduce cognitive effort, facilitate problem-solving and make our 
 
 If the pdf won't open, here's the [google doc](https://docs.google.com/document/d/1CmoAdpXN2RnXKr-hiuWJdMo6kBH3793X8U3kYe521hk/edit?usp=sharing).
 
+Or you can also [read it directly here](availability_algo_spec.md) (no images).
 
 
 Any feedback is appreciated,
